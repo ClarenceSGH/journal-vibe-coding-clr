@@ -1,5 +1,11 @@
-Je suis Clarence Seguy Houel
+# Je suis Clarence Seguy Houel
 
 Je suis étudiant en UX UI design en 2eme année
 
-j'écrit ici des trucs 
+## jsuis qui ?
+
+Clarence je l'ai déjà dit
+
+## je fait quoi ?
+
+J'écrit ici des trucs 
