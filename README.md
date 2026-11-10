@@ -18,4 +18,4 @@ J'écrit ici des trucs
 
 ## Voila mon portfolio : [portfolio de bg](https://clarenceseguyhouel.app/)
 
-##                                                                                                                            [scéance suivante](séance-2.md)
+##___________________________________________________________________________________________________________________________[scéance suivante](séance-2.md)
