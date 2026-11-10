@@ -9,3 +9,9 @@ Clarence je l'ai déjà dit
 ## je fait quoi ?
 
 J'écrit ici des trucs 
+
+## j'apprend quoi ?
+
+-**github** 
+
+-**Claude** 
