@@ -17,3 +17,5 @@ J'écrit ici des trucs
 -**Claude** 
 
 ## Voila mon portfolio : [portfolio de bg](https://clarenceseguyhouel.app/)
+
+##                                                                                                                            [scéance suivante](séance-2.md)
